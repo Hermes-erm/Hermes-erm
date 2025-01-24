@@ -1,3 +1,3 @@
-👋 Hi, I’m @Hermes-erm
-🌱 I’m currently learning and also working 💻
+👋 Hi, I’m Hermes-erm, Web dev!
+🌱 currently learning and also working 💻
 ...
