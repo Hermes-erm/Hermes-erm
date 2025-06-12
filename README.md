@@ -1,3 +1,3 @@
 👋 Hi, I’m Hermes-erm, Web dev!
-🌱 learning and also working 💻
+🌱 learning and building stuff 💻
 ...
