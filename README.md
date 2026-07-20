@@ -1,4 +1,4 @@
-# <p style="text-align: center;"> Hi 👋, Hermes here.. <br/>!Developer && <`Learner`/></p>
+# <p style="text-align: center;"> Hi 👋, Hermes here.. <br/>~ learning as i go</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hermes-erm&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
